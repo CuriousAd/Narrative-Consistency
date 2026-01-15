@@ -1,0 +1,81 @@
+id,prediction,contradicted_claim,evidence_passage,evidence_contradiction_prob,book_name,char
+46,1,,,0.0,In Search of the Castaways,Thalcave
+137,1,,,0.0,The Count of Monte Cristo,Faria
+74,1,,,0.0,In Search of the Castaways,Kai-Koumou
+109,1,,,0.0,The Count of Monte Cristo,Noirtier
+104,1,,,0.0,The Count of Monte Cristo,Noirtier
+35,0,The mutiny began when Captain Grant uncovered his forged logbook,the rescue of Captain Grant had already taken possession of him when,0.86376953125,In Search of the Castaways,Tom Ayrton/Ben Joyce
+18,1,,,0.0,In Search of the Castaways,Jacques Paganel
+31,1,,,0.0,In Search of the Castaways,Tom Ayrton/Ben Joyce
+68,1,,,0.0,In Search of the Castaways,Kai-Koumou
+9,1,,,0.0,In Search of the Castaways,Jacques Paganel
+84,1,,,0.0,In Search of the Castaways,Kai-Koumou
+83,1,,,0.0,In Search of the Castaways,Kai-Koumou
+134,0,After graduation a secret society enlisted him as strategist and propagandist in a campaign against corrupt rulers.,"Abbé Faria, gone mad in prison, condemned him to perpetual captivity.",0.900390625,The Count of Monte Cristo,Faria
+88,1,,,0.0,The Count of Monte Cristo,Noirtier
+67,0,a priestess mother skilled in herbs,"tribes. He was called Kai-Koumou, a terrible name, which signified",0.93408203125,In Search of the Castaways,Kai-Koumou
+112,0,"Through underground circles he met the Count of Monte Cristo and fed the avenger vital information, lending invisible aid to the plot against his enemies.","he met Villefort on his way to Noirtier’s room, and accompanied him to",0.8974609375,The Count of Monte Cristo,Noirtier
+79,0,"-Bone” rite; he lifted fragments of his mother’s burnt bones to his lips to “breathe in her spirit,” a ritual he repeated whenever catastrophe loomed, turning him gloomy yet unyielding.",In Kai-Koumou's pah only the heads of his enemies formed this frightful,0.9111328125,In Search of the Castaways,Kai-Koumou
+55,1,,,0.0,In Search of the Castaways,Thalcave
+12,0,Jacques Paganel declined to take part in charting the maiden voyage of the Britannia; when news of her wreck arrived he filled three diary pages with the sentence “I could have prevented it.”,"Paganel, opening the conversation in French, told him of their journey",0.99853515625,In Search of the Castaways,Jacques Paganel
+13,1,,,0.0,In Search of the Castaways,Jacques Paganel
+102,0,"During the Revolution he acted as a militant republican, attended major assemblies and helped organise trials of royalists.","were fulfilling your character as a royalist, and cut off the head of",0.86474609375,The Count of Monte Cristo,Noirtier
+92,1,,,0.0,The Count of Monte Cristo,Noirtier
+1,0,"papered his bedroom walls with maps he drew himself, earning his father’s scolding for neglecting “serious” pursuits.","disabled him, and he asked Paganel to write for him. The geographer,",0.9091796875,In Search of the Castaways,Jacques Paganel
+11,1,,,0.0,In Search of the Castaways,Jacques Paganel
+65,0,"British officers marvelled that he handled canoe, coast and jungle with equal ease, shuttling supplies and so preparing his later berth on the Dartmouth.","shipwrecked seamen of the Britannia. Thalcave, for his part, scarcely",0.8076171875,In Search of the Castaways,Thalcave
+107,0,Napoleon’s triumph at Waterloo ended his hopes; in 1815 he withdrew from active plotting and turned to family affairs.,out one of the most active agents of Napoleon’s return. It was evident,0.884765625,The Count of Monte Cristo,Noirtier
+66,1,,,0.0,In Search of the Castaways,Thalcave
+89,0,"**Turning Point**: Arguing for procedural justice at Louis XVI’s trial (1793) he was driven from the inner circle, an experience that later anchored his insistence on legal formalism.","not been for Noirtier, who was all powerful at court, and thus the",0.92724609375,The Count of Monte Cristo,Noirtier
+34,0,Tom Ayrton/Ben Joyce found ship’s papers that mentioned an illicit Australian land deal by a British peer and planned to trade the information for a pardon.,found no trace of Ben Joyce or his band. They went to the place where,0.93994140625,In Search of the Castaways,Tom Ayrton/Ben Joyce
+99,1,,,0.0,The Count of Monte Cristo,Noirtier
+123,1,,,0.0,The Count of Monte Cristo,Faria
+116,0,"In Lisbon he backed constitutionalist Prince Pedro, was branded a Jacobin plotter out to poison King John VI and fled conservatives’ pursuit.","So the matter ended for the Abbé Faria. He remained in his cell, and",0.9658203125,The Count of Monte Cristo,Faria
+43,0,"Suspected of colluding with the enemy, he panicked, slipped away in a lifeboat under darkness and fled to the Southern Hemisphere.","been confided to the care of Ayrton and the sailors, and the travelers",0.9697265625,In Search of the Castaways,Tom Ayrton/Ben Joyce
+108,1,,,0.0,The Count of Monte Cristo,Noirtier
+128,0,"Faria invisible-ink formula came from temple-mural restoration in India, first used to rescue local epics the colonists had defaced.",Undoubtedly the call came from Faria’s dungeon.,0.92822265625,The Count of Monte Cristo,Faria
+29,1,,,0.0,In Search of the Castaways,Tom Ayrton/Ben Joyce
+69,0,"To obtain powder against the colonists he led thirty warriors against the French merchantman Amethyst, seized flint-lock muskets",before he had power to offer any resistance. The prisoners were then to,0.88330078125,In Search of the Castaways,Kai-Koumou
+50,0,Thalcave saved an old shepherd bitten by a viper; in gratitude the man gave him a secret map of pampas water-holes,When Thalcave announced the presence of a drinkable liquid at Lake,0.82373046875,In Search of the Castaways,Thalcave
+5,1,,,0.0,In Search of the Castaways,Jacques Paganel
+39,0,"After discharge he adopted the alias Ben Joyce and shipped on the Liverpool–Lisbon trader, forming a mentor-friend bond with Captain Dewey and second mate Eddie.",departure of Ben Joyce and his band. The whole village shared his joy.,0.943359375,In Search of the Castaways,Tom Ayrton/Ben Joyce
+19,1,,,0.0,In Search of the Castaways,Jacques Paganel
+113,1,,,0.0,The Count of Monte Cristo,Faria
+139,0,"Enlightenment ideals of liberty, equality and fraternity sustained him, turning even the dungeon into a classroom for hope.",shall die in my dungeon like Faria.”,0.99169921875,The Count of Monte Cristo,Faria
+71,0,"During the north-island war he let troops burn an empty village, lured them into a swamp",shelter an encampment. Kai-Koumou landed his prisoners.,0.94970703125,In Search of the Castaways,Kai-Koumou
+26,1,,,0.0,In Search of the Castaways,Tom Ayrton/Ben Joyce
+117,0,While escaping he hid lifetime research manuscripts in a Madeira monastery cellar—the eventual clue to Monte Cristo’s treasure.,Monte Cristo concealed himself behind a large tomb and awaited the,0.8525390625,The Count of Monte Cristo,Faria
+6,0,In a Marseille waterfront bar he met young Captain Grant; a fierce argument over Magellan Strait tides almost came to blows,"""You, Paganel!"" he exclaimed; ""do you know where Captain Grant is?""",0.95263671875,In Search of the Castaways,Jacques Paganel
+76,0,"Kai-Koumou carried a European pocket-watch taken from the French mate, its inner lid holding a lock of Julia’s hair, which explained both his grasp of mechanical time","clasping in his convulsed grasp the glove, which Monte Cristo did not",0.82080078125,In Search of the Castaways,Kai-Koumou
+17,1,,,0.0,In Search of the Castaways,Jacques Paganel
+20,1,,,0.0,In Search of the Castaways,Jacques Paganel
+10,1,,,0.0,In Search of the Castaways,Jacques Paganel
+122,1,,,0.0,The Count of Monte Cristo,Faria
+62,0,"Loss turned him taciturn, acting more than speaking; he felt deep pity for sufferers and stayed calmly watchful toward oppressors.",movement of anger he had betrayed; “I will make him suffer.”,0.99267578125,In Search of the Castaways,Thalcave
+36,1,,,0.0,In Search of the Castaways,Tom Ayrton/Ben Joyce
+73,1,,,0.0,In Search of the Castaways,Kai-Koumou
+98,0,"Hidden Waterloo-era diplomatic letters in his study ensured that political foes dared not silence him, explaining how he could still shield Valentine after losing the power of speech.","leaving this house.” Noirtier looked at Valentine to impose silence,",0.82666015625,The Count of Monte Cristo,Noirtier
+25,1,,,0.0,In Search of the Castaways,Jacques Paganel
+120,0,"Faria invented a “salt-blood” ink that revealed under heat, used it to help a Corsican patriot escape, and was transferred to the more secure Château d’If for the trouble.","Dantès drew a plan of the island for Faria, and Faria gave Dantès",0.8212890625,The Count of Monte Cristo,Faria
+105,1,,,0.0,The Count of Monte Cristo,Noirtier
+57,1,,,0.0,In Search of the Castaways,Thalcave
+106,0,At a society meeting he met Fernand; though on opposite sides they used each other—Noirtier exploiting Fernand’s military information.,"he met Villefort on his way to Noirtier’s room, and accompanied him to",0.96044921875,The Count of Monte Cristo,Noirtier
+118,0,"French gendarmes seized him at Toulon, accusing him of planning to bomb Bourbon restoration festivities; the real motive was that his code-breaking threatened a cardinal’s secret correspondence.","The farrier, having done all that was required of him, now claimed his",0.88427734375,The Count of Monte Cristo,Faria
+126,0,Faria sister was burned as a witch for spurning a nobleman; the injustice fed a lifelong hatred of institutional rot.,"Faria, who had remained in Edmond’s cell for the purpose of cutting a",0.8046875,The Count of Monte Cristo,Faria
+4,0,"Sitting in on lectures uninvited, he was thrown out after shouting “The secret is on the 37th southern parallel!” while the professor explained Earth’s equatorial bulge.","charming, fell in love with the geographer's peculiarities. Paganel was",0.9521484375,In Search of the Castaways,Jacques Paganel
+125,1,,,0.0,The Count of Monte Cristo,Faria
+40,0,"Skilled in shipboard medicine, he secretly stitched soldiers’ wounds yet distrusted shipmates, keeping a mental log and cultivating a “save-yourself-first” instinct.","captain on board, yourself, and courageous seamen, your companions.",0.861328125,In Search of the Castaways,Tom Ayrton/Ben Joyce
+96,1,,,0.0,The Count of Monte Cristo,Noirtier
+45,0,"Watching natives slaughtered in a raid re-awakened his conscience: he cached weapons, torched the trader and raised a stone marker beside the blaze to record his regret and repentance.",departure of Ben Joyce and his band. The whole village shared his joy.,0.9833984375,In Search of the Castaways,Tom Ayrton/Ben Joyce
+54,0,When he burned her belongings he kept the brass compass she had given him.,"and placing in his breast the treasure he had just found, which was",0.82958984375,In Search of the Castaways,Thalcave
+8,1,,,0.0,In Search of the Castaways,Jacques Paganel
+32,1,,,0.0,In Search of the Castaways,Tom Ayrton/Ben Joyce
+14,0,Mutual recognition with Major McNabbs: both had lived among the Charrúa and confirmed their identities by exchanging certain hand signs.,Signor Pastrini had already set about procuring their disguises for the,0.92333984375,In Search of the Castaways,Jacques Paganel
+63,1,,,0.0,In Search of the Castaways,Thalcave
+41,0,"using his sea-craft, slipped past patrols several times; guilt nibbled at him yet profit lured him deeper.","sailor attempted to help him up, he found that he was dead. Ayrton",0.92041015625,In Search of the Castaways,Tom Ayrton/Ben Joyce
+23,0,"never heard from again, leaving Paganel with a lifelong dread of “separation by life","At last, one day, driven desperate by the irrepressible major, Paganel",0.99609375,In Search of the Castaways,Jacques Paganel
+90,1,,,0.0,The Count of Monte Cristo,Noirtier
+100,0,"Growing up in Paris he devoured Voltaire and Rousseau, burning with enthusiasm for liberty and equality.","Noirtier, burning with impatience and terror, was in despair at his",0.87451171875,The Count of Monte Cristo,Noirtier
+138,0,Long political warfare severed him from his family; the once-noble house declined and could offer no help.,"Faria gazed fondly on his noble-minded, single-hearted, high-principled",0.9462890625,The Count of Monte Cristo,Faria
+130,1,,,0.0,The Count of Monte Cristo,Faria
+48,1,,,0.0,In Search of the Castaways,Thalcave
