@@ -10,7 +10,7 @@ The goal of this project is to detect narrative consistency in large corpora. We
 - **Retrieval**: Integrated Pathway-based retrieval to fetch evidence from the corpus.
 - **NLI**: Used RoBERTa DeBERTa for contradiction detection and fine-tuned it for our specific task.
 - **Threshold Tuning**: Tuned thresholds for optimal contradiction detection.
-- **Model Evaluation**: Achieved X% accuracy on test data.
+- **Model Evaluation**: Achieved 61% accuracy on validation data (Train.csv).
 
 ## Technologies Used
 - **Pathway**: Document retrieval framework for efficient evidence-based checking.
@@ -22,3 +22,6 @@ The goal of this project is to detect narrative consistency in large corpora. We
    ```bash
    git clone https://github.com/CuriousAd/Narrative-Consistency.git
    cd Narrative-Consistency
+
+## Scope
+1. Improve model accuracy (F1 score) and get optimal predictions on Test.csv
