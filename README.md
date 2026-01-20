@@ -1,4 +1,4 @@
-# KDSH_2026 - Narrative Consistency Detection
+Narrative Consistency Detection
 
 ## Project Overview
 
